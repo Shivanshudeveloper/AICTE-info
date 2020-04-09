@@ -7,9 +7,10 @@
                 <div class="form-group">
                     <label for="exampleFormControlSelect1">SELECT STREAM</label>
                     <select class="form-control" id="exampleFormControlSelect1">
+                        <option>B-Tech/BE</option>
+                        <option>MBA</option>
                         <option>Diploma in Engineering</option>
                         <option>Post Diploma in Engineering</option>
-                        <option>B-Tech</option>
                         <option>PG Diploma in Engineering</option>
                         <option>M-Tech</option>
                         <option>PG in Pharamacy</option>
