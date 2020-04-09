@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,500,600,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700&display=swap');
+body{font-family: 'Oswald', sans-serif;}
+.newDivTp{width: 100%; float: left;}
+.topSliderDiv{width: 100%; float: left;}
+.topSliderDiv img{width: 100%; float: left;}
+nav{width: 100%; float: left; background: #1E9C76;}
+.navbar-default{background-color: #be1e4f; border-color: transparent; border:none; height: 90px; -border-radius:0px; -webkit-border-radius:0px; -moz-border-radius:0px;}
+.navbar{margin-bottom: 0}
+.navbar-brand{padding-top: 0; margin-top: 0}
+.nav.navbar-nav{float: right;}
+.navbar-default{padding: 0 15px; width: 100%; float: left;}
+.nav.navbar-nav{padding-top: 20px; }
+.nav.navbar-nav li a{color: #fff; font-size: 18px;}
+section.mainCntSec{width: 100%; float: left; padding: 25px 0}
+.brdCrumDiv{width: 100%; float: left;}
+.brdCrumDiv ul{padding: 0; margin: 0; list-style-type: none;}
+.brdCrumDiv ul li{display: inline-block; padding: 0 10px}
+.brdCrumDiv ul li a{}
+.mainCntDiv{width: 100%; float: left; padding: 25px 0}
+.mainCntHdg{text-transform: uppercase; color: #343434; text-align: center; font-size: 22px}
+.mainCntHdg span{display: block; font-size:16px ; font-family: 'PT Sans', sans-serif; text-transform: none; line-height: 18px; padding-top: 5px; font-weight: 400;}
+.fourBoxDiv{width: 100%; float: left; margin-top: 45px}
+._bxOneIn{width: 100%; float: left; background: #c0569a; height: 200px; color: #fff; text-align: center; padding-top: 45px; -webkit-border-radius:6px; -moz-border-radius:6px; border-radius: 6px}
+._bxTwo{background: #15b796}
+._bxThree{background: #eb6e2d}
+._bxFr{background: #4289c9}
+footer{background: #2b2b2b; width: 100%; float: left; padding: 45px 0 0}
+footer ul li{line-height: 26px}
+footer ul li a{color: #fff;font-family: 'PT Sans', sans-serif;}
+.text-uppercase{color: #fff}
+footer p{color: #fff; font-family: 'PT Sans', sans-serif; }
+.footer-copyright{width: 100%; float: left; background: #424242; padding: 25px 0; color: #fff}
+.footer-copyright a{color: #c352a0}
