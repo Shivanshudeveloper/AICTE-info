@@ -18,8 +18,8 @@
                         <option>PG in Arch</option>
                         <option>PG in Planning</option>
                         <option>Diploma in Applied Arts and Craft</option>
-                        <option>Under Graduate Degree in Applied</option>
-                        <option>PG Degree in apllied arts and Craft</option>
+                        <option>Under Graduate Degree in Applied Arts and Craft</option>
+                        <option>PG Degree in Apllied Arts and Craft</option>
                         <option>BSc</option>
                     </select>
                 </div>
@@ -40,6 +40,8 @@
                         <option>2nd Year</option>
                         <option>3rd Year</option>
                         <option>4th Year</option>
+                        <option>5th Year</option>
+                        <option>6th Year</option>
                     </select>
                 </div>
             </div>
@@ -74,11 +76,16 @@
     <div class="card rounded shadow-sm">
         <div class="card-body">
             <h1 class="card-title">Diploma in Engineering</h1>
-            <h6 class="card-subtitle mb-2 text-muted">E-Contents</h6>
+            <h3>
+                You have selected B-Tech/BE in Automobile Engineering
+            </h3>
             <hr>
             <p class="card-text">
+                <span class="float-right">
+                    <a href="https://swayam.gov.in/">Visit Website</a>
+                </span>
                 <h4 class="text-center">
-                    Contents from Swayam Website
+                    Content from Swayam Website
                 </h4>
                 <div>
                     <div class="row row-cols-1 row-cols-md-5">
@@ -87,7 +94,7 @@
                             <div class="card-body">
                             <span class="h4">
                                 <a href="https://www.youtube.com/watch?v=bum_19loj9A">
-                                        <i class="fas fa-file-video"></i>
+                                        <i class="fab text-danger fa-youtube"></i>
                                 </a>
                             </span>
                             <h6>Data Structures</h3>
@@ -99,7 +106,7 @@
                             <div class="card-body">
                                 <span class="h4">
                                     <a href="https://www.youtube.com/watch?v=bum_19loj9A">
-                                        <i class="fas fa-file-video"></i>
+                                        <i class="fab text-danger fa-youtube"></i>
                                     </a>
                                 </span>
                                 <h6>Algorithms</h3>
@@ -111,7 +118,7 @@
                             <div class="card-body">
                                 <span class="h4">
                                     <a href="https://www.youtube.com/watch?v=Qkwj65l_96I">
-                                        <i class="fas fa-file-video"></i>
+                                        <i class="fab text-danger fa-youtube"></i>
                                     </a>
                                 </span>
                                 <h6>Compiler</h3>
@@ -124,7 +131,7 @@
                             <div class="card-body">
                                 <span class="h4">
                                     <a href="https://www.youtube.com/watch?v=vBURTt97EkA">
-                                        <i class="fas fa-file-video"></i>
+                                        <i class="fab text-danger fa-youtube"></i>
                                     </a>
                                 </span>
                                 <h6>Operating System</h6>
@@ -137,7 +144,7 @@
                             <div class="card-body">
                                 <span class="h4">
                                     <a href="https://www.youtube.com/watch?v=Qkwj65l_96I">
-                                        <i class="fas fa-file-video"></i>
+                                        <i class="fab text-danger fa-youtube"></i>
                                     </a>
                                 </span>
                                 <h6>Networking</h6>
@@ -150,7 +157,7 @@
                             <div class="card-body">
                                 <span class="h4">
                                     <a href="https://www.youtube.com/watch?v=Qkwj65l_96I">
-                                        <i class="fas fa-file-video"></i>
+                                        <i class="fab text-danger fa-youtube"></i>
                                     </a>
                                 </span>
                                 <h6>Compiler</h3>
@@ -165,8 +172,11 @@
 
             <hr>
             <p class="card-text">
+                <span class="float-right">
+                    <a href="https://ndl.iitkgp.ac.in/">Visit Website</a>
+                </span>
                 <h4 class="text-center">
-                    Contents from National Digital Library Website
+                    Content from National Digital Library Website
                 </h4>
                 <div>
                     <div class="row row-cols-1 row-cols-md-5">
